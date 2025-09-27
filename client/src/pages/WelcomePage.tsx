@@ -49,7 +49,7 @@ export function WelcomePage() {
           <div className="flex justify-center items-center gap-3 mb-4">
             <Sparkles className="h-10 w-10 text-blue-600" />
             <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              Welcome to your Databricks FastAPI app!
+              Hello Suman! Welcome to your Databricks FastAPI app!
             </h1>
           </div>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
